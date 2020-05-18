@@ -32,7 +32,8 @@
 
 .friend__content .friend__name{
     display: block;
-    margin-bottom: 10px;
+    font-weight: 600;
+    margin-bottom: 5px;
 }
 
 
